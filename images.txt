@@ -11,8 +11,3 @@ nyanmisaka/jellyfin:latest
 photoprism/photoprism:latest
 jeessy/ddns-go:latest
 qbittorrentofficial/qbittorrent:latest
-gitea/gitea:latest
-gitlab/gitlab-ce:latest
-mysql
-wordpress
-grafana/grafana:latest
