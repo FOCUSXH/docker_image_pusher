@@ -11,7 +11,6 @@ nyanmisaka/jellyfin:latest
 photoprism/photoprism:latest
 jeessy/ddns-go:latest
 qbittorrentofficial/qbittorrent:latest
-yangsijia/bililive-go:latest
 gitea/gitea:latest
 gitlab/gitlab-ce:latest
 mysql
