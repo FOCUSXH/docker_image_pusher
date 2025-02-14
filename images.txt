@@ -18,8 +18,6 @@ grafana/grafana:latest
 mongo
 redis
 jenkins/jenkins:latest
-docker.elastic.co/elasticsearch/elasticsearch
-docker.elastic.co/kibana/kibana
 prom/prometheus
 rabbitmq:3-management
 wurstmeister/kafka
