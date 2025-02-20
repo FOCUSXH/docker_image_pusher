@@ -29,4 +29,4 @@ etherpad/etherpad
 matomo
 jupyterhub/jupyterhub
 taigaio/taiga-back
-
+ollama/ollama
