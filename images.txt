@@ -30,5 +30,5 @@ matomo
 jupyterhub/jupyterhub
 taigaio/taiga-back
 ollama/ollama
-filecodebox
 container-registry.oracle.com/database/free:latest
+clickhouse/clickhouse-server:latest
