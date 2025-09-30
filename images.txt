@@ -32,3 +32,4 @@ taigaio/taiga-back
 ollama/ollama
 container-registry.oracle.com/database/free:latest
 clickhouse/clickhouse-server:latest
+dataease/sqlbot:latest
