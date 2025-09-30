@@ -13,6 +13,7 @@ jeessy/ddns-go:latest
 gitea/gitea:latest
 gitlab/gitlab-ce:latest
 mysql
+mysql:8
 wordpress
 grafana/grafana:latest
 mongo
