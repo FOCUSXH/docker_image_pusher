@@ -36,3 +36,4 @@ clickhouse/clickhouse-server:latest
 dataease/sqlbot:latest
 minio/minio:latest
 rustfs/rustfs:latest
+pgvector/pgvector:pg17
