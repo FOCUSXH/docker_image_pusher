@@ -37,3 +37,6 @@ dataease/sqlbot:latest
 minio/minio:latest
 rustfs/rustfs:latest
 pgvector/pgvector:pg17
+pgvector/pgvector:pg16
+pgvector/pgvector:pg15
+pgvector/pgvector:pg14
