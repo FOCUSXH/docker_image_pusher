@@ -41,3 +41,4 @@ pgvector/pgvector:pg16
 pgvector/pgvector:pg15
 pgvector/pgvector:pg14
 openproject/openproject:16
+odoo:latest
