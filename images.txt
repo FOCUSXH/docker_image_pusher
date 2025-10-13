@@ -42,3 +42,4 @@ pgvector/pgvector:pg15
 pgvector/pgvector:pg14
 openproject/openproject:16
 odoo:latest
+mattermost/focalboard:latest
