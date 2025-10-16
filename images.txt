@@ -44,3 +44,4 @@ openproject/openproject:16
 odoo:latest
 mattermost/focalboard:latest
 budibase/apps:latest
+nextcloud:latest
