@@ -45,3 +45,4 @@ odoo:latest
 mattermost/focalboard:latest
 budibase/apps:latest
 nextcloud:latest
+semitechnologies/weaviate:latest
