@@ -40,6 +40,7 @@ pgvector/pgvector:pg17
 pgvector/pgvector:pg16
 pgvector/pgvector:pg15
 pgvector/pgvector:pg14
+pgvector/pgvector:pg12
 openproject/openproject:16
 odoo:latest
 mattermost/focalboard:latest
