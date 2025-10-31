@@ -18,6 +18,7 @@ mysql:8.0.28
 wordpress
 grafana/grafana:latest
 mongo
+mongo:6.0
 redis
 redis:7.0
 jenkins/jenkins:latest
