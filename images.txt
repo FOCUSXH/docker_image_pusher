@@ -19,6 +19,7 @@ wordpress
 grafana/grafana:latest
 mongo
 redis
+redis:7.0
 jenkins/jenkins:latest
 prom/prometheus
 rabbitmq:3-management
