@@ -51,4 +51,4 @@ mattermost/focalboard:latest
 budibase/apps:latest
 nextcloud:latest
 semitechnologies/weaviate:latest
-elasticsearch:latest
+mysql:5.7
