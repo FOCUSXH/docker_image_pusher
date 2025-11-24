@@ -39,7 +39,7 @@ container-registry.oracle.com/database/free:latest
 clickhouse/clickhouse-server:latest
 dataease/sqlbot:latest
 minio/minio:latest
-bitnami/minio:2024.7.4
+minio/minio:RELEASE.2025-04-22T22-12-26Z
 rustfs/rustfs:latest
 pgvector/pgvector:pg17
 pgvector/pgvector:pg16
