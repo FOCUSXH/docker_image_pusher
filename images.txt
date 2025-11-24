@@ -15,6 +15,7 @@ gitlab/gitlab-ce:latest
 mysql
 mysql:8.0.20
 mysql:8.0.28
+mysql:8.0.30
 wordpress
 grafana/grafana:latest
 mongo
