@@ -54,3 +54,4 @@ budibase/apps:latest
 nextcloud:latest
 semitechnologies/weaviate:latest
 mysql:5.7
+confluentinc/cp-kafka:latest
