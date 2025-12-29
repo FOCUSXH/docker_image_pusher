@@ -55,3 +55,4 @@ nextcloud:latest
 semitechnologies/weaviate:latest
 mysql:5.7
 confluentinc/cp-kafka:latest
+infiniflow/ragflow:v0.22.1
