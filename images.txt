@@ -41,6 +41,7 @@ dataease/sqlbot:latest
 minio/minio:latest
 minio/minio:RELEASE.2025-04-22T22-12-26Z
 rustfs/rustfs:latest
+jenkins/jenkins:lts
 pgvector/pgvector:pg17
 pgvector/pgvector:pg16
 pgvector/pgvector:pg15
