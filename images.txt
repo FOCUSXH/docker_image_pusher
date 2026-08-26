@@ -57,3 +57,4 @@ semitechnologies/weaviate:latest
 mysql:5.7
 confluentinc/cp-kafka:latest
 infiniflow/ragflow:v0.22.1
+nginx:1.31.4
