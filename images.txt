@@ -60,3 +60,4 @@ infiniflow/ragflow:v0.22.1
 nginx:1.31.4
 gotify/server:latest
 gotify/server:2.7.3
+rustdesk/rustdesk-server:latest
